@@ -1,10 +1,10 @@
 # SOLUWISE CODE CHALLENGE 
 
-# About 
+## About 
 This code was written in PERL and it simply reads and analyzes a test XML file and creates an HTML file containing tables with the data analyzed. 
 The XML file is copy/paste from the source code found here [link](http://cinecl.soluwise.com/plaza_las_americas.html). 
 
-# Running the Program 
+## Running the Program 
 To start fork this repository and copy it in your local environment. In the terminal run the following commands: 
 ```
 perl index.pl 
